@@ -1,0 +1,19 @@
+.container{
+    margin-top: 25px;
+    width: 500px;
+}
+
+.enviar{
+    margin-top: 10px;
+}
+
+.insert_ok{
+    text-align: center;
+}
+
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    text-align: center;
+}
